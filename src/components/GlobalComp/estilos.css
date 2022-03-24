@@ -1,0 +1,26 @@
+.btn {
+    background-color: #BA3902;
+    border-color: #BA3902;
+}
+
+.btn:hover{
+    background-color: rgb(189, 123, 2);
+    border-color: rgb(189, 123, 2);
+}
+
+.btn::shadow{
+    background-color: #BA3902;
+    border-color: #BA3902;
+}
+
+.btn:focus{
+    background-color: #BA3902;
+    border-color: #BA3902;
+    box-shadow: 0 0 0 .2rem #f77a45;
+}
+
+.btn::after{
+    background-color: #BA3902;
+    border-color: #BA3902;
+    box-shadow: 0 0 0 .2rem #BA3902;
+}
