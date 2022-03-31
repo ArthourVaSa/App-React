@@ -1,0 +1,30 @@
+.cole {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#imp {
+    background-color: #FFBE5C;
+}
+
+#imp:hover {
+    background-color: #BA3902;
+}
+
+#par {
+    background-color: #FC7F33;
+}
+
+#par:hover {
+    background-color: #BA3902;
+}
+
+#group {
+    margin-top: 10px;
+}
+
+.platos {
+    color: black;
+}
